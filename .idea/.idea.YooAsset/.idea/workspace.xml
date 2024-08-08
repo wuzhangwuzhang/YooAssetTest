@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9977c906-b5cf-4826-a38c-6a4bd1ca3ab7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1723097499" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8b1b7391b1f34b29acf5507471678dfb3c00/e9/09ae2513/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/924bd680de2e444e81aa7fc0635cdbfe958a00/d2/48ac3e56/PhysicsDebugDraw.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/0f/1b280344/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/1b/38dad605/HashHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/2d/76756c60/SynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/47/1c1aed85/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/50/fbc8424a/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/69/94b2afae/Enum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/a8/1f2e14c6/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/a9/0ff77c60/Delegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/d8/d39eeb47/Exception.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/ef/80470683/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/ef/cf98ccb1/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b7b90d34a54066a7234dad6925511646ac00/f4/4d16c558/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/db6bcab8bf2a4de0ac5604e78b998169c400/36/148ecd72/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/db6bcab8bf2a4de0ac5604e78b998169c400/cc/a049934e/DownloadHandlerFile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/12/95f97990/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/1f/2fbf5356/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/35/0a30ea1b/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/37/7a908522/ReflectionProbe.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/3a/27bc7b9a/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/53/b7d130cb/CustomYieldInstruction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f335e40f338b47ffbc5bcfa0175ee870176000/a9/7bd620c2/LightProbes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/FileSystem/DefaultCacheFileSystem/Operation/DCFSClearUnusedBundleFilesOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/ResourcePackage/PlayMode/HostPlayModeImpl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/ResourcePackage/ResourcePackage.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kJmNpcV8OeJJ8R8clE0no9fu1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "XThreadsFramesViewSplitterKey": "0.43384337",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys_rider",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\zhwu\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\zhwu\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\zhwu\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\SoftWare\Unity\2022.3.37f1c1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\ZHWU\Desktop\HybirdCLR\YooAsset -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ZHWU\Desktop\HybirdCLR\YooAsset" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\SoftWare\Unity\2022.3.37f1c1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\ZHWU\Desktop\HybirdCLR\YooAsset -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ZHWU\Desktop\HybirdCLR\YooAsset" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20412">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="20412" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9977c906-b5cf-4826-a38c-6a4bd1ca3ab7" name="Changes" comment="" />
+      <created>1723010017862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723010017862</updated>
+      <workItem from="1723010019155" duration="4616000" />
+      <workItem from="1723021352867" duration="270000" />
+      <workItem from="1723021675605" duration="7034000" />
+      <workItem from="1723037061686" duration="9000" />
+      <workItem from="1723037090972" duration="7000" />
+      <workItem from="1723037130748" duration="19555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>66</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="68" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="2774" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2811" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/ResourcePackage/PlayMode/HostPlayModeImpl.cs</url>
+          <line>46</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\ResourcePackage\PlayMode\HostPlayModeImpl.cs" initialLine="46" containingFunctionPresentation="Method 'RequestPackageVersionAsync'">
+            <startOffsets>
+              <option value="1423" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1521" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/ResourcePackage/PlayMode/HostPlayModeImpl.cs</url>
+          <line>47</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\ResourcePackage\PlayMode\HostPlayModeImpl.cs" initialLine="47" containingFunctionPresentation="Method 'RequestPackageVersionAsync'">
+            <startOffsets>
+              <option value="1534" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1589" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/ResourcePackage/PlayMode/HostPlayModeImpl.cs</url>
+          <line>48</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\ResourcePackage\PlayMode\HostPlayModeImpl.cs" initialLine="48" containingFunctionPresentation="Method 'RequestPackageVersionAsync'">
+            <startOffsets>
+              <option value="1602" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1619" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>99</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="98" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="4048" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4092" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>113</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="114" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="4628" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4679" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>114</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="115" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="4696" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4784" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>85</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="85" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="3600" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3653" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs</url>
+          <line>94</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Scripts\GameStart.cs" initialLine="94" containingFunctionPresentation="Method 'DownLoadAssetsByYooAssets'">
+            <startOffsets>
+              <option value="3847" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3893" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Samples/YooAsset/2.2.2-preview/Space Shooter/GameScript/Runtime/PatchLogic/FsmNode/FsmInitializePackage.cs</url>
+          <line>80</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Samples\YooAsset\2.2.2-preview\Space Shooter\GameScript\Runtime\PatchLogic\FsmNode\FsmInitializePackage.cs" initialLine="80" containingFunctionPresentation="Method 'InitPackage'">
+            <startOffsets>
+              <option value="3075" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3112" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/OperationSystem/OperationSystem.cs</url>
+          <line>137</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\OperationSystem\OperationSystem.cs" initialLine="137" containingFunctionPresentation="Method 'StartOperation'">
+            <startOffsets>
+              <option value="3669" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3690" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/FileSystem/DefaultCacheFileSystem/Operation/internal/RequestRemotePackageVersionOperation.cs</url>
+          <line>46</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\FileSystem\DefaultCacheFileSystem\Operation\internal\RequestRemotePackageVersionOperation.cs" initialLine="46" containingFunctionPresentation="Method 'InternalOnUpdate'">
+            <startOffsets>
+              <option value="1576" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1616" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.2-preview/Runtime/FileSystem/DefaultCacheFileSystem/Operation/internal/RequestRemotePackageVersionOperation.cs</url>
+          <line>67</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.2-preview\Runtime\FileSystem\DefaultCacheFileSystem\Operation\internal\RequestRemotePackageVersionOperation.cs" initialLine="67" containingFunctionPresentation="Method 'InternalOnUpdate'">
+            <startOffsets>
+              <option value="2525" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2559" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.1-preview/Samples~/Space Shooter/GameScript/Runtime/PatchLogic/FsmNode/FsmInitializePackage.cs</url>
+          <line>80</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.1-preview\Samples~\Space Shooter\GameScript\Runtime\PatchLogic\FsmNode\FsmInitializePackage.cs" initialLine="80" containingFunctionPresentation="Method 'InitPackage'">
+            <startOffsets>
+              <option value="3075" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3112" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@2.2.1-preview/Samples~/Space Shooter/GameScript/Runtime/PatchLogic/FsmNode/FsmInitializePackage.cs</url>
+          <line>69</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Library\PackageCache\com.tuyoogame.yooasset@2.2.1-preview\Samples~\Space Shooter\GameScript\Runtime\PatchLogic\FsmNode\FsmInitializePackage.cs" initialLine="69" containingFunctionPresentation="Method 'InitPackage'">
+            <startOffsets>
+              <option value="2637" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2705" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Samples/YooAsset/2.2.1-preview/Space Shooter/GameScript/Runtime/Boot.cs</url>
+          <line>37</line>
+          <properties documentPath="F:\HybirdCLR\YooAsset\Assets\Samples\YooAsset\2.2.1-preview\Space Shooter\GameScript\Runtime\Boot.cs" initialLine="37" containingFunctionPresentation="Method 'Start'">
+            <startOffsets>
+              <option value="831" />
+            </startOffsets>
+            <endOffsets>
+              <option value="960" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#YooAsset.HostPlayModeInitializationOperation" memberName="_initDeliveryFileSystemOp" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
